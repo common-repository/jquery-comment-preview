@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery Comment Preview\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-10 19:19+0400\n"
+"PO-Revision-Date: 2011-09-10 19:19+0400\n"
+"Last-Translator: Dimox\n"
+"Language-Team: Dimox <http://dimox.name>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../jquery-comment-preview.php:47
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: ../jquery-comment-preview.php:48
+msgid "Hide preview"
+msgstr "Скрыть предпросмотр"
+
+#: ../jquery-comment-preview.php:49
+msgid "says"
+msgstr "пишет"
+
+#: ../jquery-comment-preview.php:174
+#: ../jquery-comment-preview.php:382
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../jquery-comment-preview.php:253
+msgid "Enter the URL"
+msgstr "Введите URL"
+
+#: ../jquery-comment-preview.php:270
+msgid "Enter the URL of the image"
+msgstr "Введите URL изображения"
+
+#: ../jquery-comment-preview.php:272
+msgid "Enter a description of the image"
+msgstr "Введите описание изображения"
+
+#: ../jquery-comment-preview.php:300
+#: ../jquery-comment-preview.php:543
+msgid "http://dimox.net/jquery-comment-preview-wordpress-plugin/"
+msgstr "http://dimox.name/jquery-comment-preview-wordpress-plugin/"
+
+#: ../jquery-comment-preview.php:300
+msgid "About the plugin"
+msgstr "О плагине"
+
+#: ../jquery-comment-preview.php:327
+msgid "Please specify the <code style=\"background:#FFFBFB\">name</code> attribute of the <code style=\"background:#FFFBFB\">textarea</code> tag, else preview will not work."
+msgstr "Пожалуйста, укажите параметр <code style=\"background:#FFFBFB\">name</code> тега <code style=\"background:#FFFBFB\">textarea</code>, иначе предпросмотр не будет работать."
+
+#: ../jquery-comment-preview.php:334
+msgid "jQuery Comment Preview Options"
+msgstr "Настройки jQuery Comment Preview"
+
+#: ../jquery-comment-preview.php:342
+#: ../jquery-comment-preview.php:534
+msgid "Update Options"
+msgstr "Сохранить настройки"
+
+#: ../jquery-comment-preview.php:346
+msgid "Preview Options"
+msgstr "Настройки предпросмотра"
+
+#: ../jquery-comment-preview.php:353
+msgid "The value of the <code>name</code> attribute of the <code>textarea</code> tag:"
+msgstr "Значение параметра <code>name</code> тега <code>textarea</code>:"
+
+#: ../jquery-comment-preview.php:356
+msgid "The <code>textarea</code> tag is in the <code>comments.php</code> file of your theme. Commonly this value is <code>comment</code>."
+msgstr "Тег <code>textarea</code> находится в файле <code>comments.php</code> вашей темы. Обычно это значение - <code>comment</code>."
+
+#: ../jquery-comment-preview.php:361
+msgid "\"Preview\" button text:"
+msgstr "Текст кнопки \"Предпросмотр\":"
+
+#: ../jquery-comment-preview.php:368
+msgid "\"Hide preview\" button text:"
+msgstr "Текст кнопки \"Скрыть предпросмотр\":"
+
+#: ../jquery-comment-preview.php:375
+msgid "Preview block template:"
+msgstr "Шаблон блока предпросмотра:"
+
+#: ../jquery-comment-preview.php:378
+msgid "Designations:"
+msgstr "Обозначения:"
+
+#: ../jquery-comment-preview.php:379
+msgid "avatar"
+msgstr "аватар"
+
+#: ../jquery-comment-preview.php:380
+msgid "author's name with a link"
+msgstr "имя автора со ссылкой"
+
+#: ../jquery-comment-preview.php:381
+msgid "comment date"
+msgstr "дата комментария"
+
+#: ../jquery-comment-preview.php:381
+#: ../jquery-comment-preview.php:382
+msgid "will look like"
+msgstr "будет выглядеть как"
+
+#: ../jquery-comment-preview.php:382
+msgid "comment date and time"
+msgstr "дата и время комментария"
+
+#: ../jquery-comment-preview.php:383
+msgid "comment text"
+msgstr "текст комментария"
+
+#: ../jquery-comment-preview.php:384
+msgid "<strong>The format of the date and time</strong> depends on your"
+msgstr "<strong>Формат даты и времени</strong> зависит от ваших"
+
+#: ../jquery-comment-preview.php:384
+msgid "settings"
+msgstr "настроек"
+
+#: ../jquery-comment-preview.php:389
+msgid "Avatar type:"
+msgstr "Тип аватара:"
+
+#: ../jquery-comment-preview.php:410
+msgid "Dynamic"
+msgstr "Динамический"
+
+#: ../jquery-comment-preview.php:411
+msgid "Static"
+msgstr "Статический"
+
+#: ../jquery-comment-preview.php:413
+msgid "Avatar will vary depending on an e-mail address of commentator. Used <a href=\"http://gravatar.com/\" target=\"_blank\">Gravatar</a> service."
+msgstr "Аватар будет меняться в зависимости от адреса электронной почты комментирующего. Используется сервис <a href=\"http://gravatar.com/\" target=\"_blank\">Gravatar</a>."
+
+#: ../jquery-comment-preview.php:418
+msgid "Link on static avatar:"
+msgstr "Ссылка на статический аватар:"
+
+#: ../jquery-comment-preview.php:421
+msgid "Avatar will <strong>not</strong> vary depending on an e-mail address of commentator."
+msgstr "Аватар <strong>не</strong> будет меняться в зависимости от адреса электронной почты комментирующего."
+
+#: ../jquery-comment-preview.php:426
+msgid "Avatar size:"
+msgstr "Размер аватара:"
+
+#: ../jquery-comment-preview.php:440
+msgid "Connect a plugin's CSS file?"
+msgstr "Подключать CSS-файл плагина?"
+
+#: ../jquery-comment-preview.php:443
+#: ../jquery-comment-preview.php:484
+#: ../jquery-comment-preview.php:508
+#: ../jquery-comment-preview.php:520
+msgid "Yes"
+msgstr "Да"
+
+#: ../jquery-comment-preview.php:444
+#: ../jquery-comment-preview.php:485
+#: ../jquery-comment-preview.php:509
+#: ../jquery-comment-preview.php:521
+msgid "No"
+msgstr "Нет"
+
+#: ../jquery-comment-preview.php:447
+msgid "If you wish to reduce a number of queries to the server it can be useful not to connect an additional CSS file applied to the plugin. In that case choose \"No\". Thus it is necessary to insert a styles from the <code>jquery-comment-preview.css</code> file into a CSS file of your theme (<code>style.css</code>)."
+msgstr "Если вы хотите сократить количество запросов к серверу, то будет полезно не подключать дополнительный CSS-файл, используемый плагином. В таком случае выберите \"Нет\". При этом необходимо вставить стили из файла <code>jquery-comment-preview.css</code> в CSS-файл вашей темы (<code>style.css</code>)."
+
+#: ../jquery-comment-preview.php:449
+msgid "The CSS file is located on the following path"
+msgstr "Файл стилей расположен по следующему пути"
+
+#: ../jquery-comment-preview.php:461
+msgid "HTML Editor Options"
+msgstr "Настройки HTML-редактора"
+
+#: ../jquery-comment-preview.php:468
+msgid "The HTML editor allows to quickly insert a HTML tags into a comment text."
+msgstr "HTML-редактор позволяет быстро вставлять HTML-теги в текст комментария."
+
+#: ../jquery-comment-preview.php:472
+msgid "Show the HTML editor?"
+msgstr "Показывать HTML-редактор?"
+
+#: ../jquery-comment-preview.php:491
+msgid "HTML code of a buttons of the editor:"
+msgstr "HTML-код кнопок редактора:"
+
+#: ../jquery-comment-preview.php:494
+msgid "Explanations:"
+msgstr "Пояснения:"
+
+#: ../jquery-comment-preview.php:496
+msgid "A button <strong>necessarily</strong> should always have a <code>tag</code> parameter and a tag name as value. For example, If you create a button for the <code>&lt;code>&lt;/code></code> tag, this parameter should be looks like this: <code>&lt;button <strong>tag=\"code\"</strong>>...&lt;button></code>."
+msgstr "Кнопка <strong>обязательно</strong> должна иметь параметр <code>tag</code>, в значении которого нужно указать имя тега. Например, если вы создаете кнопку для тега <code>&lt;code>&lt;/code></code>, то этот параметр должен выглядеть следующим образом: <code>&lt;button <strong>tag=\"code\"</strong>>...&lt;button></code>."
+
+#: ../jquery-comment-preview.php:497
+msgid "Between the tags <code><strong>&lt;button></strong></code> and <code><strong>&lt;/button></strong></code> it is necessary to specify a <strong>name of a button</strong>."
+msgstr "Между тегами <code><strong>&lt;button></strong></code> и <code><strong>&lt;/button></strong></code> необходимо указать <strong>название кнопки</strong>."
+
+#: ../jquery-comment-preview.php:498
+msgid "If you wish to <strong>add a parameters to a tag</strong>, it is necessary to set them in square brackets after a button name. For example, to receive a button for the <code>&lt;a href=\"\">&lt;/a></code> tag, it is necessary to write the following code: <code>&lt;button <strong>tag=\"a\"</strong>>link<strong>[href=\"\"]</strong>&lt;/button></code>."
+msgstr "Если вы хотите <strong>добавить параметры к тегу</strong>, то необходимо их прописать в квадратных скобках после названия кнопки. Например, чтобы получить кнопку для тега <code>&lt;a href=\"\">&lt;/a></code>, необходимо написать следующий код: <code>&lt;button <strong>tag=\"a\"</strong>>link<strong>[href=\"\"]</strong>&lt;/button></code>."
+
+#: ../jquery-comment-preview.php:505
+msgid "Add the <code>target=\"_blank\"</code> parameter to external links?"
+msgstr "Добавлять параметр <code>target=\"_blank\"</code> к внешним ссылкам?"
+
+#: ../jquery-comment-preview.php:512
+msgid "This option is used for the button adds a link."
+msgstr "Данная опция применяется для кнопки, добавляющей ссылку."
+
+#: ../jquery-comment-preview.php:517
+msgid "Show button with WordPress smilies?"
+msgstr "Показывать кнопку с WordPress смайлами?"
+
+#: ../jquery-comment-preview.php:524
+msgid "To make this feature work, the following option should be activated on "
+msgstr "Для того, чтобы работала данная функция, должна быть активна следующая опция на "
+
+#: ../jquery-comment-preview.php:524
+msgid "this page"
+msgstr "этой странице"
+
+#: ../jquery-comment-preview.php:524
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display"
+msgstr ""
+
+#: ../jquery-comment-preview.php:535
+msgid "Reset Defaults"
+msgstr "Сбросить настройки"
+
+#: ../jquery-comment-preview.php:539
+msgid "Copyright"
+msgstr ""
+
+#: ../jquery-comment-preview.php:543
+msgid "http://dimox.net"
+msgstr "http://dimox.name"
+
+#: ../jquery-comment-preview.php:543
+msgid "version"
+msgstr "версия"
+
+#~ msgid "Some Errors Occurred:"
+#~ msgstr "Обнаружены следующие ошибки:"
+
+#~ msgid "Options saved!"
+#~ msgstr "Настройки сохранены!"
+
+#~ msgid "Default values restored."
+#~ msgstr "Восстановлены значения по умолчанию."
+
+#, fuzzy
+#~ msgid ""
+#~ "Between the tags <code><strong>&lt;button></strong></code> and "
+#~ "<code><strong>&lt;/button></strong></code> it is necessary to specify a "
+#~ "<strong>name of a button</strong>, which will be inserted at a clique on "
+#~ "the button. For example, to receive the button for a <code>&lt;"
+#~ "strong>&lt;/strong></code> tag, it is necessary to write so: <code>&lt;"
+#~ "button...><strong>strong</strong>&lt;/button></code>."
+#~ msgstr ""
+#~ "Между тегами <code><strong>&lt;button></strong></code> и "
+#~ "<code><strong>&lt;/button></strong></code> необходимо указывать "
+#~ "<strong>название тега</strong>, который будет вставляться при клике на "
+#~ "кнопку. Например, чтобы получить кнопку для тега <code>&lt;strong>&lt;/"
+#~ "strong></code>, необходимо написать так: <code>&lt;button..."
+#~ "><strong>strong</strong>&lt;/button></code>"
+
+#~ msgid "Bold"
+#~ msgstr "Жирный"
+
+#~ msgid "Italic"
+#~ msgstr "Курсив"
+
+#~ msgid "Link"
+#~ msgstr "Ссылка"
+
+#~ msgid "Quotation"
+#~ msgstr "Цитата"
+
+#~ msgid "Code"
+#~ msgstr "Код"
+
+#~ msgid "Show avatar in preview?"
+#~ msgstr "Показывать аватар в предпросмотре?"
+
+#~ msgid "comment date and time (will look like:"
+#~ msgstr "дата и время комментария (будет выглядеть как:"
+
+#~ msgid "Live comment preview without page reboot. Works on jQuery."
+#~ msgstr ""
+#~ "Живой предпросмотр комментария без перезагрузки страницы. Работает на "
+#~ "jQuery."

@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery Comment Preview\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-10 19:19+0400\n"
+"PO-Revision-Date: 2011-09-10 19:19+0400\n"
+"Last-Translator: Dimox\n"
+"Language-Team: Dimox <http://dimox.name>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../jquery-comment-preview.php:47
+msgid "Preview"
+msgstr ""
+
+#: ../jquery-comment-preview.php:48
+msgid "Hide preview"
+msgstr ""
+
+#: ../jquery-comment-preview.php:49
+msgid "says"
+msgstr ""
+
+#: ../jquery-comment-preview.php:174
+#: ../jquery-comment-preview.php:382
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../jquery-comment-preview.php:253
+msgid "Enter the URL"
+msgstr ""
+
+#: ../jquery-comment-preview.php:270
+msgid "Enter the URL of the image"
+msgstr ""
+
+#: ../jquery-comment-preview.php:272
+msgid "Enter a description of the image"
+msgstr ""
+
+#: ../jquery-comment-preview.php:300
+#: ../jquery-comment-preview.php:543
+msgid "http://dimox.net/jquery-comment-preview-wordpress-plugin/"
+msgstr ""
+
+#: ../jquery-comment-preview.php:300
+msgid "About the plugin"
+msgstr ""
+
+#: ../jquery-comment-preview.php:327
+msgid "Please specify the <code style=\"background:#FFFBFB\">name</code> attribute of the <code style=\"background:#FFFBFB\">textarea</code> tag, else preview will not work."
+msgstr ""
+
+#: ../jquery-comment-preview.php:334
+msgid "jQuery Comment Preview Options"
+msgstr ""
+
+#: ../jquery-comment-preview.php:342
+#: ../jquery-comment-preview.php:534
+msgid "Update Options"
+msgstr ""
+
+#: ../jquery-comment-preview.php:346
+msgid "Preview Options"
+msgstr ""
+
+#: ../jquery-comment-preview.php:353
+msgid "The value of the <code>name</code> attribute of the <code>textarea</code> tag:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:356
+msgid "The <code>textarea</code> tag is in the <code>comments.php</code> file of your theme. Commonly this value is <code>comment</code>."
+msgstr ""
+
+#: ../jquery-comment-preview.php:361
+msgid "\"Preview\" button text:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:368
+msgid "\"Hide preview\" button text:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:375
+msgid "Preview block template:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:378
+msgid "Designations:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:379
+msgid "avatar"
+msgstr ""
+
+#: ../jquery-comment-preview.php:380
+msgid "author's name with a link"
+msgstr ""
+
+#: ../jquery-comment-preview.php:381
+msgid "comment date"
+msgstr ""
+
+#: ../jquery-comment-preview.php:381
+#: ../jquery-comment-preview.php:382
+msgid "will look like"
+msgstr ""
+
+#: ../jquery-comment-preview.php:382
+msgid "comment date and time"
+msgstr ""
+
+#: ../jquery-comment-preview.php:383
+msgid "comment text"
+msgstr ""
+
+#: ../jquery-comment-preview.php:384
+msgid "<strong>The format of the date and time</strong> depends on your"
+msgstr ""
+
+#: ../jquery-comment-preview.php:384
+msgid "settings"
+msgstr ""
+
+#: ../jquery-comment-preview.php:389
+msgid "Avatar type:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:410
+msgid "Dynamic"
+msgstr ""
+
+#: ../jquery-comment-preview.php:411
+msgid "Static"
+msgstr ""
+
+#: ../jquery-comment-preview.php:413
+msgid "Avatar will vary depending on an e-mail address of commentator. Used <a href=\"http://gravatar.com/\" target=\"_blank\">Gravatar</a> service."
+msgstr ""
+
+#: ../jquery-comment-preview.php:418
+msgid "Link on static avatar:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:421
+msgid "Avatar will <strong>not</strong> vary depending on an e-mail address of commentator."
+msgstr ""
+
+#: ../jquery-comment-preview.php:426
+msgid "Avatar size:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:440
+msgid "Connect a plugin's CSS file?"
+msgstr ""
+
+#: ../jquery-comment-preview.php:443
+#: ../jquery-comment-preview.php:484
+#: ../jquery-comment-preview.php:508
+#: ../jquery-comment-preview.php:520
+msgid "Yes"
+msgstr ""
+
+#: ../jquery-comment-preview.php:444
+#: ../jquery-comment-preview.php:485
+#: ../jquery-comment-preview.php:509
+#: ../jquery-comment-preview.php:521
+msgid "No"
+msgstr ""
+
+#: ../jquery-comment-preview.php:447
+msgid "If you wish to reduce a number of queries to the server it can be useful not to connect an additional CSS file applied to the plugin. In that case choose \"No\". Thus it is necessary to insert a styles from the <code>jquery-comment-preview.css</code> file into a CSS file of your theme (<code>style.css</code>)."
+msgstr ""
+
+#: ../jquery-comment-preview.php:449
+msgid "The CSS file is located on the following path"
+msgstr ""
+
+#: ../jquery-comment-preview.php:461
+msgid "HTML Editor Options"
+msgstr ""
+
+#: ../jquery-comment-preview.php:468
+msgid "The HTML editor allows to quickly insert a HTML tags into a comment text."
+msgstr ""
+
+#: ../jquery-comment-preview.php:472
+msgid "Show the HTML editor?"
+msgstr ""
+
+#: ../jquery-comment-preview.php:491
+msgid "HTML code of a buttons of the editor:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:494
+msgid "Explanations:"
+msgstr ""
+
+#: ../jquery-comment-preview.php:496
+msgid "A button <strong>necessarily</strong> should always have a <code>tag</code> parameter and a tag name as value. For example, If you create a button for the <code>&lt;code>&lt;/code></code> tag, this parameter should be looks like this: <code>&lt;button <strong>tag=\"code\"</strong>>...&lt;button></code>."
+msgstr ""
+
+#: ../jquery-comment-preview.php:497
+msgid "Between the tags <code><strong>&lt;button></strong></code> and <code><strong>&lt;/button></strong></code> it is necessary to specify a <strong>name of a button</strong>."
+msgstr ""
+
+#: ../jquery-comment-preview.php:498
+msgid "If you wish to <strong>add a parameters to a tag</strong>, it is necessary to set them in square brackets after a button name. For example, to receive a button for the <code>&lt;a href=\"\">&lt;/a></code> tag, it is necessary to write the following code: <code>&lt;button <strong>tag=\"a\"</strong>>link<strong>[href=\"\"]</strong>&lt;/button></code>."
+msgstr ""
+
+#: ../jquery-comment-preview.php:505
+msgid "Add the <code>target=\"_blank\"</code> parameter to external links?"
+msgstr ""
+
+#: ../jquery-comment-preview.php:512
+msgid "This option is used for the button adds a link."
+msgstr ""
+
+#: ../jquery-comment-preview.php:517
+msgid "Show button with WordPress smilies?"
+msgstr ""
+
+#: ../jquery-comment-preview.php:524
+msgid "To make this feature work, the following option should be activated on "
+msgstr ""
+
+#: ../jquery-comment-preview.php:524
+msgid "this page"
+msgstr ""
+
+#: ../jquery-comment-preview.php:524
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display"
+msgstr ""
+
+#: ../jquery-comment-preview.php:535
+msgid "Reset Defaults"
+msgstr ""
+
+#: ../jquery-comment-preview.php:539
+msgid "Copyright"
+msgstr ""
+
+#: ../jquery-comment-preview.php:543
+msgid "http://dimox.net"
+msgstr ""
+
+#: ../jquery-comment-preview.php:543
+msgid "version"
+msgstr ""
+

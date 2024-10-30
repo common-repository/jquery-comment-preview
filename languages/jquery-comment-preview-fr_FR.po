@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JQuery Comment Preview\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-02 13:00+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: wolforg <contact@wolforg.eu>\n"
+"Language-Team: Wolforg <contact@wolforg.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n>2\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../jquery-comment-preview.php:34
+#: ../jquery-comment-preview.php:343
+#: ../jquery-comment-preview.php:382
+msgid "Preview"
+msgstr "Apercu"
+
+#: ../jquery-comment-preview.php:35
+#: ../jquery-comment-preview.php:344
+#: ../jquery-comment-preview.php:383
+msgid "Hide preview"
+msgstr "Cacher l'Apercu"
+
+#: ../jquery-comment-preview.php:39
+#: ../jquery-comment-preview.php:348
+#: ../jquery-comment-preview.php:387
+msgid "says"
+msgstr "a dit"
+
+#: ../jquery-comment-preview.php:120
+#: ../jquery-comment-preview.php:443
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: ../jquery-comment-preview.php:201
+msgid "Enter the URL"
+msgstr "Entrez l'URL"
+
+#: ../jquery-comment-preview.php:313
+msgid "Please specify the <code style=\"background:#FFFBFB\">name</code> attribute of the <code style=\"background:#FFFBFB\">textarea</code> tag, else preview will not work."
+msgstr "Svp, spécifiez le <code style=\"background:#FFFBFB\">nom </code> pour l'attribut du mot-clé de la <code style=\"background:#FFFBFB\">zone de texte</code>, sans cela l'aperçu ne fonctionnera pas."
+
+#: ../jquery-comment-preview.php:321
+msgid "Some Errors Occurred:"
+msgstr "Quelques erreurs sont apparues :"
+
+#: ../jquery-comment-preview.php:332
+msgid "Options saved!"
+msgstr "Options Enregistrées!"
+
+#: ../jquery-comment-preview.php:359
+msgid "Default values restored."
+msgstr "Valeurs par défaut restaurées."
+
+#: ../jquery-comment-preview.php:399
+msgid "jQuery Comment Preview Options"
+msgstr "Options de JQuery Comment Preview"
+
+#: ../jquery-comment-preview.php:407
+msgid "Preview Options"
+msgstr "Options d'Aperçu"
+
+#: ../jquery-comment-preview.php:414
+msgid "The value of the <code>name</code> attribute of the <code>textarea</code> tag:"
+msgstr "La valeur du <code>nom</code> d'attribut du mot-clé de la <code>zone de texte</code> :"
+
+#: ../jquery-comment-preview.php:417
+msgid "The <code>textarea</code> tag is in the <code>comments.php</code> file of your theme. Commonly this value is <code>comment</code>."
+msgstr "Les mots-clés de la <code>zone de texte</code> dans le fichier <code>comments.php</code>de votre thème. Communément cette valeur est <code>comment</code>."
+
+#: ../jquery-comment-preview.php:422
+msgid "\"Preview\" button text:"
+msgstr "Texte du bouton d'\"Aperçu\" :"
+
+#: ../jquery-comment-preview.php:429
+msgid "\"Hide preview\" button text:"
+msgstr "Texte du bouton \"Cacher l'Aperçu\" :"
+
+#: ../jquery-comment-preview.php:436
+msgid "Preview block template:"
+msgstr "Modèle de bloc d'aperçu :"
+
+#: ../jquery-comment-preview.php:439
+msgid "Designations:"
+msgstr "Désignations :"
+
+#: ../jquery-comment-preview.php:440
+msgid "avatar"
+msgstr "avatar"
+
+#: ../jquery-comment-preview.php:441
+msgid "author's name with a link"
+msgstr "nom de l'auteur avec un lien"
+
+#: ../jquery-comment-preview.php:442
+msgid "comment date"
+msgstr "date du commentaire"
+
+#: ../jquery-comment-preview.php:442
+#: ../jquery-comment-preview.php:443
+msgid "will look like"
+msgstr "ressemblera à"
+
+#: ../jquery-comment-preview.php:443
+msgid "comment date and time"
+msgstr "date et heure du commentaire"
+
+#: ../jquery-comment-preview.php:444
+msgid "comment text"
+msgstr "texte de commentaire"
+
+#: ../jquery-comment-preview.php:445
+msgid "<strong>The format of the date and time</strong> depends on your"
+msgstr "<strong>Les formats de date et d'heure</stong> dépendent de vos"
+
+#: ../jquery-comment-preview.php:445
+msgid "settings"
+msgstr "paramètres"
+
+#: ../jquery-comment-preview.php:450
+msgid "Avatar type:"
+msgstr "type d'Avatar :"
+
+#: ../jquery-comment-preview.php:471
+msgid "Dynamic"
+msgstr "Dynamique"
+
+#: ../jquery-comment-preview.php:472
+msgid "Static"
+msgstr "Statique"
+
+#: ../jquery-comment-preview.php:474
+msgid "Avatar will vary depending on an e-mail address of commentator. Used <a href=\"http://gravatar.com/\" target=\"_blank\">Gravatar</a> service."
+msgstr "L'avatar dépend de l'adresse email du commentateur utilisant le service <a href=\"http://gravatar.com/\" target=\"_blank\">Gravatar</a>"
+
+#: ../jquery-comment-preview.php:479
+msgid "Link on static avatar:"
+msgstr "Lien pour l'Avatar statique :"
+
+#: ../jquery-comment-preview.php:482
+msgid "Avatar will <strong>not</strong> vary depending on an e-mail address of commentator."
+msgstr "L'avatar ne changera <strong<pas</strong> en fonction de l'adresse email du commentateur."
+
+#: ../jquery-comment-preview.php:487
+msgid "Avatar size:"
+msgstr "Taille d'Avatar :"
+
+#: ../jquery-comment-preview.php:501
+msgid "Connect a plugin's CSS file?"
+msgstr "Lier un fichier .css ?"
+
+#: ../jquery-comment-preview.php:504
+#: ../jquery-comment-preview.php:545
+#: ../jquery-comment-preview.php:569
+#: ../jquery-comment-preview.php:581
+msgid "Yes"
+msgstr "Oui"
+
+#: ../jquery-comment-preview.php:505
+#: ../jquery-comment-preview.php:546
+#: ../jquery-comment-preview.php:570
+#: ../jquery-comment-preview.php:582
+msgid "No"
+msgstr "Non"
+
+#: ../jquery-comment-preview.php:508
+msgid "If you wish to reduce a number of queries to the server it can be useful not to connect an additional CSS file applied to the plugin. In that case choose \"No\". Thus it is necessary to insert a styles from the <code>jquery-comment-preview.css</code> file into a CSS file of your theme (<code>style.css</code>)."
+msgstr "Si vous voulez réduire le nombre de requêtes sur votre serveur, il peut être pratique de lier un fichier .css additionnel à l'extension. Dans ce cas choisissez \"Non\". Ceci est nécessaire pour installer un style à partir du fichier <code>jquery-comment-preview.css</code> dans le fichier CSS de votre thème  (<code>style.css</code>)."
+
+#: ../jquery-comment-preview.php:510
+msgid "The CSS file is located on the following path"
+msgstr "Le fichier CSS est placé à l'endroit suivant :"
+
+#: ../jquery-comment-preview.php:522
+msgid "HTML Editor Options"
+msgstr "Options d'Editeur HTML :"
+
+#: ../jquery-comment-preview.php:529
+msgid "The HTML editor allows to quickly insert a HTML tags into a comment text."
+msgstr "L'éditeur HTML autorise l'ajout rapide de balises HTML dans le texte de commentaire."
+
+#: ../jquery-comment-preview.php:533
+msgid "Show the HTML editor?"
+msgstr "Afficher l'éditeur HTML?"
+
+#: ../jquery-comment-preview.php:552
+msgid "HTML code of a buttons of the editor:"
+msgstr "Code HTML des boutons de l'éditeur :"
+
+#: ../jquery-comment-preview.php:555
+msgid "Explanations:"
+msgstr "Explications :"
+
+#: ../jquery-comment-preview.php:557
+msgid "A button <strong>necessarily</strong> should always have a <code>tag</code> parameter and a tag name as value. For example, If you create a button for the <code>&lt;code>&lt;/code></code> tag, this parameter should be looks like this: <code>&lt;button <strong>tag=\"code\"</strong>>...&lt;button></code>."
+msgstr "Un bouton doit <strong>nécessairement</strong> avoir un <code>mot-clé</code> de paramétrage et un mot-clé de nom comme valeur. Par exemple vous créez un bouton pour le mot-clé <code>&lt;code>&lt;/code></code>, ce paramètre devra ressembler à cela : <code>&lt;button <strong>tag=\"code\"</strong>>...&lt;button></code>."
+
+#: ../jquery-comment-preview.php:558
+msgid "Between the tags <code><strong>&lt;button></strong></code> and <code><strong>&lt;/button></strong></code> it is necessary to specify a <strong>name of a button</strong>."
+msgstr "Entre les mots-clés <code><strong>&lt;button></strong></code> et <code><strong>&lt;/button></strong></code> il est nécessaire de spécifier un<strong>nom de bouton</strong>."
+
+#: ../jquery-comment-preview.php:559
+msgid "If you wish to <strong>add a parameters to a tag</strong>, it is necessary to set them in square brackets after a button name. For example, to receive a button for the <code>&lt;a href=\"\">&lt;/a></code> tag, it is necessary to write the following code: <code>&lt;button <strong>tag=\"a\"</strong>>link<strong>[href=\"\"]</strong>&lt;/button></code>."
+msgstr "Si vous désirez <strong>ajouter des paramètres à un mot-clé</strong>, il est nécessaire des les définir dans des braquets après le nom du bouton. Par exemple, pour le bouton du mot-clé <code>&lt;a href=\"\" target=\"_blank\">&lt;/a></code>. Il est nécessaire d'écrire le code suivant : <code>&lt;bouton <strong>tag=\"a\"</strong>>lien<strong>[href=\"\" target=\"_blank\"]</strong>&lt;/button></code>."
+
+#: ../jquery-comment-preview.php:566
+msgid "Add the <code>target=\"_blank\"</code> parameter to external links?"
+msgstr "Ajouter le paramètre <code>target=\"_blank\"</code> pour les liens externes?"
+
+#: ../jquery-comment-preview.php:573
+msgid "This option is used for the button adds a link."
+msgstr "Cette option est utilisée pour le bouton \"ajouter un lien\"."
+
+#: ../jquery-comment-preview.php:578
+msgid "Show button with WordPress smilies?"
+msgstr "Afficher bouton pour les smileys WordPress?"
+
+#: ../jquery-comment-preview.php:585
+msgid "To make this feature work, the following option should be activated on "
+msgstr "Pour rendre cette fonction opérationnelle, vous devez activer l'option suivante"
+
+#: ../jquery-comment-preview.php:585
+msgid "this page"
+msgstr "cette page"
+
+#: ../jquery-comment-preview.php:585
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display"
+msgstr "Convertir les smileys tels que <code>:-)</code> et <code>:-P</code> en images à afficher"
+
+#: ../jquery-comment-preview.php:595
+msgid "Update Options"
+msgstr "Mettre à jour"
+
+#: ../jquery-comment-preview.php:596
+msgid "Reset Defaults"
+msgstr "Réinitialiser"
+
+#: ../jquery-comment-preview.php:600
+msgid "Copyright"
+msgstr "Copyright"
+
+#: ../jquery-comment-preview.php:604
+msgid "http://dimox.net"
+msgstr "http://dimox.net"
+
+#: ../jquery-comment-preview.php:604
+msgid "http://dimox.net/jquery-comment-preview-wordpress-plugin/"
+msgstr "http://articlesss.com/jquery-comment-preview-wordpress-plugin/"
+
+#: ../jquery-comment-preview.php:604
+msgid "version"
+msgstr "Traduction : <a href=\"http://www.wolforg.eu\">Wolforg</a>. version"
+
